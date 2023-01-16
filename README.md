@@ -1,5 +1,3 @@
-# About me
-
 ## Summary
 
 - 🏫 Graduated : **[Tech University of Korea](https://www.tukorea.ac.kr/sites/tukorea/index.do)**
